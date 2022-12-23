@@ -1,7 +1,14 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # shop-react
 this project is deploy on docker with dockerfile.
 =======
+=======
+# Site Live Demo Link
+
+https://royal-clothing-site.netlify.app/
+
+>>>>>>> e303848 (implemeted styled-component)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
